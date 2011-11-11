@@ -1,0 +1,35 @@
+#surefire
+#Thu Nov 10 15:22:24 MSK 2011
+testClassesDirectory=D\:\\Private\\dev\\java\\hib\\target\\test-classes
+classPathUrl.4=D\:\\.m2\\repository\\antlr\\antlr\\2.7.6\\antlr-2.7.6.jar
+classPathUrl.3=D\:\\.m2\\repository\\org\\hibernate\\hibernate-core\\3.6.8.Final\\hibernate-core-3.6.8.Final.jar
+classPathUrl.2=D\:\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\Private\\dev\\java\\hib\\target\\classes
+reportsDirectory=D\:\\Private\\dev\\java\\hib\\target\\surefire-reports
+classPathUrl.0=D\:\\Private\\dev\\java\\hib\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\Private\\dev\\java\\hib\\src\\test\\java
+surefireClassPathUrl.1=D\:\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=D\:\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=D\:\\Private\\dev\\java\\hib\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.10=D\:\\.m2\\repository\\org\\slf4j\\slf4j-api\\1.6.1\\slf4j-api-1.6.1.jar
+classPathUrl.9=D\:\\.m2\\repository\\javax\\transaction\\jta\\1.1\\jta-1.1.jar
+classPathUrl.8=D\:\\.m2\\repository\\org\\hibernate\\javax\\persistence\\hibernate-jpa-2.0-api\\1.0.1.Final\\hibernate-jpa-2.0-api-1.0.1.Final.jar
+classPathUrl.7=D\:\\.m2\\repository\\org\\hibernate\\hibernate-commons-annotations\\3.2.0.Final\\hibernate-commons-annotations-3.2.0.Final.jar
+childDelegation=false
+classPathUrl.6=D\:\\.m2\\repository\\dom4j\\dom4j\\1.6.1\\dom4j-1.6.1.jar
+classPathUrl.5=D\:\\.m2\\repository\\commons-collections\\commons-collections\\3.1\\commons-collections-3.1.jar
